@@ -31,7 +31,7 @@ import static com.maxsoft.androios.util.DriverSetup.PROJECT_ROOT;
 import static com.maxsoft.androios.util.DriverSetup.androidDriver;
 import static com.maxsoft.androios.util.DriverSetup.iosDriver;
 import static java.lang.System.out;
-out.println("...");
+out.println;
 
 /**
  * Created by Osanda on 5/14/2017.
