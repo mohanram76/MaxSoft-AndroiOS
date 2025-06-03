@@ -30,8 +30,7 @@ import java.util.List;
 import static com.maxsoft.androios.util.DriverSetup.PROJECT_ROOT;
 import static com.maxsoft.androios.util.DriverSetup.androidDriver;
 import static com.maxsoft.androios.util.DriverSetup.iosDriver;
-import static jdk.nashorn.internal.objects.Global.println;
-
+import static java.lang.System.out;
 
 /**
  * Created by Osanda on 5/14/2017.
